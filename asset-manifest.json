@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/mapview-kb39/static/css/main.b1dbc49e.chunk.css",
+    "main.js": "/mapview-kb39/static/js/main.2140e970.chunk.js",
+    "main.js.map": "/mapview-kb39/static/js/main.2140e970.chunk.js.map",
+    "runtime-main.js": "/mapview-kb39/static/js/runtime-main.ab7eed02.js",
+    "runtime-main.js.map": "/mapview-kb39/static/js/runtime-main.ab7eed02.js.map",
+    "static/css/2.5f6dd15a.chunk.css": "/mapview-kb39/static/css/2.5f6dd15a.chunk.css",
+    "static/js/2.ab8a1dc2.chunk.js": "/mapview-kb39/static/js/2.ab8a1dc2.chunk.js",
+    "static/js/2.ab8a1dc2.chunk.js.map": "/mapview-kb39/static/js/2.ab8a1dc2.chunk.js.map",
+    "static/js/3.d5e67d79.chunk.js": "/mapview-kb39/static/js/3.d5e67d79.chunk.js",
+    "static/js/3.d5e67d79.chunk.js.map": "/mapview-kb39/static/js/3.d5e67d79.chunk.js.map",
+    "index.html": "/mapview-kb39/index.html",
+    "static/css/2.5f6dd15a.chunk.css.map": "/mapview-kb39/static/css/2.5f6dd15a.chunk.css.map",
+    "static/css/main.b1dbc49e.chunk.css.map": "/mapview-kb39/static/css/main.b1dbc49e.chunk.css.map",
+    "static/js/2.ab8a1dc2.chunk.js.LICENSE.txt": "/mapview-kb39/static/js/2.ab8a1dc2.chunk.js.LICENSE.txt",
+    "static/media/Bluezone.5979c612.svg": "/mapview-kb39/static/media/Bluezone.5979c612.svg",
+    "static/media/Disabledstar.f63b6de1.svg": "/mapview-kb39/static/media/Disabledstar.f63b6de1.svg",
+    "static/media/Minus.976c205c.svg": "/mapview-kb39/static/media/Minus.976c205c.svg",
+    "static/media/Redpin.710a44a7.svg": "/mapview-kb39/static/media/Redpin.710a44a7.svg",
+    "static/media/Save.11b3905e.svg": "/mapview-kb39/static/media/Save.11b3905e.svg",
+    "static/media/Search.022eba65.svg": "/mapview-kb39/static/media/Search.022eba65.svg",
+    "static/media/Share.f4f594cb.svg": "/mapview-kb39/static/media/Share.f4f594cb.svg",
+    "static/media/X.ef37017e.svg": "/mapview-kb39/static/media/X.ef37017e.svg",
+    "static/media/activestar.5e6007f3.svg": "/mapview-kb39/static/media/activestar.5e6007f3.svg",
+    "static/media/chevron-right.d98af57e.svg": "/mapview-kb39/static/media/chevron-right.d98af57e.svg",
+    "static/media/duration.13e37111.svg": "/mapview-kb39/static/media/duration.13e37111.svg",
+    "static/media/filter.391459c4.svg": "/mapview-kb39/static/media/filter.391459c4.svg",
+    "static/media/location.f4ddf472.svg": "/mapview-kb39/static/media/location.f4ddf472.svg",
+    "static/media/map.ead58e89.png": "/mapview-kb39/static/media/map.ead58e89.png",
+    "static/media/plus.24ecb36f.svg": "/mapview-kb39/static/media/plus.24ecb36f.svg",
+    "static/media/postedon.c0983acb.svg": "/mapview-kb39/static/media/postedon.c0983acb.svg",
+    "static/media/relocate.38d825d0.svg": "/mapview-kb39/static/media/relocate.38d825d0.svg",
+    "static/media/salary.fbac1361.svg": "/mapview-kb39/static/media/salary.fbac1361.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab7eed02.js",
+    "static/css/2.5f6dd15a.chunk.css",
+    "static/js/2.ab8a1dc2.chunk.js",
+    "static/css/main.b1dbc49e.chunk.css",
+    "static/js/main.2140e970.chunk.js"
+  ]
+}
